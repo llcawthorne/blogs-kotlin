@@ -1,0 +1,6 @@
+[submodule "Design-Patterns-In-Kotlin"]
+	path = Design-Patterns-In-Kotlin
+	url = https://github.com/dbacinski/Design-Patterns-In-Kotlin.git
+[submodule "from-java-to-kotlin"]
+	path = from-java-to-kotlin
+	url = https://github.com/fabiomsr/from-java-to-kotlin.git
